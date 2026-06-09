@@ -1,0 +1,17 @@
+# OS / editor junk
+.DS_Store
+*.swp
+*.swo
+*~
+Thumbs.db
+
+# Logs / temp
+*.log
+/tmp/
+
+# IDE / tool dirs (add more as needed)
+.idea/
+.vscode/
+*.code-workspace
+
+# Keep the skill itself clean — no need to ignore .grok here since we ship at root
