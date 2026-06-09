@@ -82,7 +82,3 @@ The skill creates output artifacts using the portable `.agents/` convention (wit
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-*Modeled after the structure and documentation style of [amposer-project-management](https://github.com/lonnylot/amposer-project-management).*
