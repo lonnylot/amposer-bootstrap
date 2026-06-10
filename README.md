@@ -1,5 +1,7 @@
 # amposer-bootstrap
 
+![Hero](images/hero.jpg)
+
 An interactive **ReAct-style bootstrap skill** for agents that helps you create a solid foundation for agents in a new (or existing) project.
 
 It gathers goals, distills what is *foundational* for any new agent to know on first startup, forces verification of every distillation with the human, and then scaffolds the actual artifacts:
@@ -62,6 +64,8 @@ The optional argument provides initial seed context for the interactive bootstra
 ├── README.md
 ├── LICENSE
 ├── .gitignore
+├── images/
+│   └── hero.jpg
 └── skills/
     └── bootstrap/
         ├── SKILL.md
